@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `npm run start:proxy:mock:server` for running the json server for data and also the dev server together else the code may not work. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.Run `ng serve` only for a dev server.
+Run `npm run start:proxy:mock:server` or `npm start` for running the json server for data and also the dev server together else the code may not work. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.Run `ng serve` only for a dev server.
 
 ## Code scaffolding
 
